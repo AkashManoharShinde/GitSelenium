@@ -15,4 +15,10 @@ public void selenium2()
 {
 	System.out.println("selenium2");
 }
+
+@Test
+public void selenium3()
+{
+	System.out.println("selenium3");
+}
 }
